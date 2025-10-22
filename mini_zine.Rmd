@@ -58,13 +58,13 @@ model_df <- read.csv(file.path(clean_path, "client_industry_monthly_2020_2025_wi
   &#x1FAA9;  &#x1FAA9;  &#x1FAA9; <strong>HANDS RAISED</strong> &#x1FAA9;  &#x1FAA9;  &#x1FAA9; <br><br>
 </div> 
         <ol>
-        <li>Kano&mdash;Another Life</li>
+        <li>Reggio&mdash;The Light</li>
         <li>Galaxy Band&mdash;Gosh</li>
         <li>Solange&mdash;Losing You</li>
         <li>John David&mdash;On The Mountain &#9968;</li>
         <li>Bob Dylan&mdash;No Time To Think</li>
         <li>Josette Martial&mdash;Let's Be Winners</li>
-        <li>The Ray and and John&mdash;Day By Day</li>
+        <li>The Temper Trap&mdash;Sweet Disposition</li>
         <li>Jerry Garcia Band&mdash;Rubin and Cherise</li>
         <li>Phish&mdash;What's Going Through Your Mind</li>
         <li>Isaac Hayes&mdash;By The Time I Get To Phoenix</li>
