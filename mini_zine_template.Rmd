@@ -55,7 +55,6 @@ output:
     <div class="cell">
       <div class="panel">
         <h3>Front Cover</h3>
-        <div class="body">Title / art<br><img src="cover.jpg" alt="cover"></div>
       </div>
     </div>
     <div class="cell">
