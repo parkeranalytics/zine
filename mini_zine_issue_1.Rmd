@@ -18,37 +18,18 @@ output:
 ```{=html}
 <div id="sheet">
   <div class="inner">
-    <!-- Top row (rotated 180°): [Page 8] [Page 1] [Page 2] [Page 3] -->
 
+    <!-- Top row (rotated 180°): [Page 3] [Page 4] [Page 5] [Page 6] -->
     <div class="cell rotated">
       <div class="panel">
-        <h3>Grooves<br>Research<br>Ideas<br>Data</h3>
-        <div class="body">&copy; 2025 GRID Magazine</div>
+        <h3>(6)</h3>
+        <div class="body">TBD</div>
       </div>
     </div>
-
+    
     <div class="cell rotated">
       <div class="panel">
-        <h3>GRID Magazine<br>Issue 1</h3>
-<img src="agnes_martin2.jpg" alt="agnes" style="width:140%;max-height:4in;object-fit:contain;display:block;margin:0.05in auto 0.1;">
-        <div class="body"><br>Agnes Martin, Untitled, 1973</div>
-
-      </div>
-    </div>
-
-    <div class="cell rotated">
-      <div class="panel">
-        <h3>GRID Magazine</h3>
-        <h1>The Light That Shines</h1>
-        <div class="body"><br><img src="cover.jpg" alt="cover"></div>
-        <div class="body"><strong>GRID </strong> is grooves, research, ideas, data<br>
-        <strong>GRID </strong>is the anti-dystopian's favorite rag<br><strong>GRID </strong>to navigate our complex modern existence<br><strong>GRID </strong> to grow your optimism and sense of grace</div>
-        </div>
-        </div>
-
-    <div class="cell rotated">
-      <div class="panel">
-        <h3>10 Triumphant Songs</h3>
+        <h3>10 Triumphant Tracks</h3>
         <div class="body">Oppressive worlds inspire triumphant sounds. 10 songs to get through the day, feelings courtesy of deep emotional synths and explosive grooves. Some on the list instantly smack, like Galaxy Band. Others slow burn for minutes, like Isaac Hayes's cover of a Jimmy Webb song first made popular by Rhinestone Cowboy Glenn Campbell<br><br><br><br> <div class="body" style="text-align:center;">
   &#x1FAA9;  &#x1FAA9;  &#x1FAA9; <strong>HANDS RAISED</strong> &#x1FAA9;  &#x1FAA9;  &#x1FAA9; <br><br>
 </div> 
@@ -65,40 +46,57 @@ output:
         <li>Isaac Hayes&mdash;By The Time I Get To Phoenix (18-minute version)</li>
       </ol>
       </div>
+      </div>
     </div>
-  </div>
-
-    <!-- Bottom row (upright): [Page 4] [Page 5] [Page 6] [Page 7] -->
-    <div class="cell">
+    
+    
+    <div class="cell rotated">
+       <div class="panel">
+      </div>
+    </div>
+    
+    
+    <div class="cell rotated">
       <div class="panel">
-        <h3>How Many Times Did Trey Say "Mind"?</h3>
+        <h3>(3) How Many Times Did Trey Say "Mind"?</h3>
         <div class="body"><img src="phish.jpg" alt="phish-logo"      style="width:100%;max-height:2.5in;object-fit:contain;display:block;margin:0.1in auto 0.1in;"></div>
         <br>
         <div class="body">Phish's "What's Going Through Your Mind" begins as guitarist Trey Anastasio vamps with a James Gang "Walkaway" crunch. A mesmerizing chorus hits a somber tone: <br><br>To the years we've suffered most<br>From things we've never spoken<br>Still I think you know<br>If looks could kill, we'd both be broken<br>Though after all this time it seems<br>We're not each other's kind<br>Never think that I don't know<br>What's going through your mind<br><br>The word "mind" repeats 28x per chorus. We count 122 "mind"s in 12/31/2024's techno epic</div>
       </div>
     </div>
 
+    <!-- Bottom row (upright): [Back Cover] [Front Cover] [Page 1] [Page 2] -->
     <div class="cell">
       <div class="panel">
-        <h3>What's Going Through Your Mind</h3>
-        <h1>mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind </h1>
+       <h3>What's Going Through Your Mind</h3>
+       <h1>mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind mind </h1>
       </div>
     </div>
 
     <div class="cell">
       <div class="panel">
-        <h3>Inventing the Disco Ball</h3>
-        <div class="body">The patent application for the disco ball, or "myriad reflector," was filed in 1916 by Louis Bernard Woeste of Kentucky. Woeste wrote his invention's aim is "to produce a myriad reflector reflecting surfaces, the same to be arranged in such a manner that the several reflections shall be projected at varying angles, the device itself being arranged so that it may be rotated or otherwise moved so that the reflections may [produce a] spectacular effect." The illustration accompanying Woeste's application is below. Next time you find yourself mesmerized by a disco ball, thank Louis Bernard Woeste's spectacular aesthetic</div>
-        <div class="body"><br><img src="disco_ball.png" alt="disco"      style="width:60%;max-height:2.5in;object-fit:contain;display:block;margin:0.1in auto 0.1in;"></div>
-        </div>
-        </div>
+        <h3>GRID Magazine<br>Issue 1</h3>
+<img src="agnes_martin2.jpg" alt="agnes" style="width:140%;max-height:4in;object-fit:contain;display:block;margin:0.05in auto 0.1;">
+        <div class="body"><br>Agnes Martin, Untitled, 1973</div>
+      </div>
+    </div>
 
     <div class="cell">
       <div class="panel">
-        <h3></h3>
-        <div class="body">Body text</div>
+        <h3>GRID Magazine</h3>
+        <h1>The Light That Shines</h1>
+        <div class="body"><strong>GRID </strong> is grooves, research, ideas, data<br>
+        <strong>GRID </strong>is the anti-dystopian's favorite rag<br><strong>GRID </strong>to navigate our complex modern existence<br><strong>GRID </strong> to grow your optimism and sense of grace</div>
       </div>
     </div>
+    <div class="cell">
+      <div class="panel">
+        <h3>Who Invented the Disco Ball?</h3>
+        <div class="body">The patent application for the disco ball, or "myriad reflector," was filed in 1916 by Louis Bernard Woeste of Kentucky. Woeste's invention, he wrote, "aims to produce a myriad reflector reflecting surfaces, the same to be arranged in such a manner that the several reflections shall be projected at varying angles, the device itself being arranged so that it may be rotated or otherwise moved so that the reflections may [produce a] spectacular effect." If you find yourself mesmerized by a disco ball's shining light, thank Louis Bernard Woeste for his spectacular vision</div>
+        <div class="body"><br><img src="disco_ball.png" alt="disco"      style="width:60%;max-height:2.75in;object-fit:contain;display:block;margin:0.05in auto 0.05in;"></div>
+        </div>
+    </div>
+
   </div>
 </div>
 

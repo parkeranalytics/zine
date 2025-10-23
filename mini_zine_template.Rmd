@@ -1,0 +1,77 @@
+---
+title: ""
+pagetitle: "Zine"
+output:
+  pagedown::html_paged:
+    self_contained: true
+    css:
+      - zine.css
+      - default-page
+      - default
+    toc: false
+    pandoc_args: ["--quiet"]
+---
+
+<!-- Edit your panel content directly in the HTML below. You can use text and <img> tags. -->
+
+
+```{=html}
+<div id="sheet">
+  <div class="inner">
+
+    <!-- Top row (rotated 180°): [Page 3] [Page 4] [Page 5] [Page 6] -->
+    <div class="cell rotated">
+      <div class="panel">
+        <h3>Page 6 – …</h3>
+        <div class="body">…content for page 6…</div>
+      </div>
+    </div>
+    <div class="cell rotated">
+      <div class="panel">
+        <h3>Page 5 – …</h3>
+        <div class="body">…content for page 5…</div>
+      </div>
+    </div>
+    <div class="cell rotated">
+      <div class="panel">
+        <h3>Page 4 – …</h3>
+        <div class="body">…content for page 4…</div>
+      </div>
+    </div>
+    <div class="cell rotated">
+      <div class="panel">
+        <h3>Page 3 – …</h3>
+        <div class="body">…content for page 3…</div>
+      </div>
+    </div>
+
+    <!-- Bottom row (upright): [Back Cover] [Front Cover] [Page 1] [Page 2] -->
+    <div class="cell">
+      <div class="panel">
+        <h3>Back Cover</h3>
+        <div class="body">Contact / credits</div>
+      </div>
+    </div>
+    <div class="cell">
+      <div class="panel">
+        <h3>Front Cover</h3>
+        <div class="body">Title / art<br><img src="cover.jpg" alt="cover"></div>
+      </div>
+    </div>
+    <div class="cell">
+      <div class="panel">
+        <h3>Page 1 – …</h3>
+        <div class="body">…content for page 1…</div>
+      </div>
+    </div>
+    <div class="cell">
+      <div class="panel">
+        <h3>Page 2 – …</h3>
+        <div class="body">…content for page 2…</div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+```
