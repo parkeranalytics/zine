@@ -13,7 +13,7 @@ html, body { width: 11in; height: 8.5in; margin: 0; padding: 0; }
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   grid-template-rows: repeat(2, 1fr);
-  gap: 0.12in;
+  gap: 0.1in;
   box-sizing: border-box;
   break-inside: avoid;
   page-break-inside: avoid;
@@ -33,7 +33,7 @@ html, body { width: 11in; height: 8.5in; margin: 0; padding: 0; }
   line-height: 1.3;
   font-size: 6pt;
 }
-.panel h2 { margin: 0 0 0.12in 0; font-size: 14pt; }
+.panel h2 h3 { margin: 0 0 0.12in 0; font-size: 16pt; }
 
 /* Wrapping & images */
 .panel .body { overflow-wrap: anywhere; word-break: normal; hyphens: auto; }
@@ -46,6 +46,7 @@ html, body { width: 11in; height: 8.5in; margin: 0; padding: 0; }
   left: 50%; transform: translateX(-50%);
   width: 0.25in; height: 0; border-top: 1px dashed #666;
 }
+
 .panel::before { top: -0.07in; }
 .panel::after  { bottom: -0.07in; }
 
