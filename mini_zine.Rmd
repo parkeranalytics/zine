@@ -38,7 +38,8 @@ output:
 
     <div class="cell rotated">
       <div class="panel">
-        <h3>What is GRID Magazine?<br>The Light That Shines</h3>
+        <h3>GRID Magazine</h3>
+        <h1>The Light That Shines</h1>
         <div class="body"><br><img src="cover.jpg" alt="cover"></div>
         <div class="body"><strong>GRID </strong> is grooves, research, ideas, data<br>
         <strong>GRID </strong>is the anti-dystopian's favorite rag<br><strong>GRID </strong>to navigate our complex modern existence<br><strong>GRID </strong> to grow your optimism and sense of grace</div>
@@ -61,7 +62,7 @@ output:
         <li>The Temper Trap&mdash;Sweet Disposition</li>
         <li>Jerry Garcia Band&mdash;Rubin and Cherise</li>
         <li>Phish&mdash;What's Going Through Your Mind</li>
-        <li>Isaac Hayes&mdash;By The Time I Get To Phoenix</li>
+        <li>Isaac Hayes&mdash;By The Time I Get To Phoenix (18-minute version)</li>
       </ol></div>
       </div>
     </div>
@@ -86,7 +87,7 @@ output:
     <div class="cell">
       <div class="panel">
         <h3>Inventing the Disco Ball</h3>
-        <div class="body">The patent application for the disco ball, or "myriad reflector," was filed in 1916 by Louis Bernard Woeste of Kentucky. Woeste wrote his invention's aim is "to produce a myriad reflector reflecting surfaces, the same to be arranged in such a manner that the several reflections shall be projected at varying angles, the device itself being arranged so that it may be rotated or otherwise moved so that the reflections may [produce a] spectacular effect." The illustration accompanying Woeste's application is below</div>
+        <div class="body">The patent application for the disco ball, or "myriad reflector," was filed in 1916 by Louis Bernard Woeste of Kentucky. Woeste wrote his invention's aim is "to produce a myriad reflector reflecting surfaces, the same to be arranged in such a manner that the several reflections shall be projected at varying angles, the device itself being arranged so that it may be rotated or otherwise moved so that the reflections may [produce a] spectacular effect." The illustration accompanying Woeste's application is below. Next time you find yourself mesmerized by a disco ball, thank Louis Bernard Woeste's spectacular aesthetic</div>
         <div class="body"><br><img src="disco_ball.png" alt="disco"      style="width:60%;max-height:2.5in;object-fit:contain;display:block;margin:0.1in auto 0.1in;"></div>
         </div>
         </div>
